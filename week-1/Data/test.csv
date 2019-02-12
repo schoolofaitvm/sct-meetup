@@ -1,0 +1,17 @@
+Loan_ID,Gender,Married,Education,ApplicantIncome,LoanAmount,Property_Area
+LP001015,Male,Yes,Graduate,5720,110,Urban
+LP001022,Male,Yes,Graduate,3076,126,Urban
+LP001031,Male,Yes,Graduate,5000,208,Urban
+LP001035,Male,Yes,Graduate,2340,100,Urban
+LP001051,Male,No,Not Graduate,3276,78,Urban
+LP001054,Male,Yes,Not Graduate,2165,152,Urban
+LP001055,Female,No,Not Graduate,2226,59,Semiurban
+LP001056,Male,Yes,Not Graduate,3881,147,Rural
+LP001059,Male,Yes,Graduate,13633,280,Urban
+LP001067,Male,No,Not Graduate,2400,123,Semiurban
+LP001078,Male,No,Not Graduate,3091,90,Urban
+LP001082,Male,Yes,Graduate,2185,162,Semiurban
+LP001083,Male,No,Graduate,4166,40,Urban
+LP001094,Male,Yes,Graduate,12173,166,Semiurban
+LP001096,Female,No,Graduate,4666,124,Semiurban
+LP001099,Male,No,Graduate,5667,131,Urban
